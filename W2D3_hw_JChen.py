@@ -1,4 +1,5 @@
-'''Building a Shopping Cart
+'''
+Building a Shopping Cart
 You can use either lists or dictionaries. The program should have the following capabilities:
 
 1) Takes in input
@@ -6,7 +7,8 @@ You can use either lists or dictionaries. The program should have the following 
 3) The User can add or delete items
 4) The User can see current shopping list
 5) The program Loops until user 'quits'
-6) Upon quiting the program, print out all items in the user's list'''
+6) Upon quiting the program, print out all items in the user's list
+'''
 
 def shoppingCart():
     groceryList = {}
@@ -41,7 +43,8 @@ shoppingCart()
 
 
 
-'''Create a Module in VS Code and import it into Jupyter Notebook
+'''
+Create a Module in VS Code and import it into Jupyter Notebook
 Module should have the following capabilities:
 
 1) Has a function to calculate the square footage of a house
@@ -50,7 +53,8 @@ Reminder of Formula: Length X Width == Area
 2) Has a function to calculate the circumference of a circle
 
 Program in Jupyter Notebook should take in user input and use imported functions
-to calculate a circle's circumference or a houses square footage'''
+to calculate a circle's circumference or a houses square footage
+'''
 
 import W2D3_hw_module_JChen
 
